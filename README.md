@@ -38,7 +38,7 @@
 ## :dart: Motivação
 Criar um meio onde programadores que tenham interesse por Deno consigam interagir e contribuir para o crescimento do ecossistema.
 
-A [primeira release](https://deno.land/v1) do Deno foi lançada em 13/05/2020 e cada vez mais dúvidas e issues iram surgir, porém as documentações ainda não são tão completas e por isso comunidades então se unindo para centralizar ideias e compartilhar conhecimento sobre o ecossistema.
+A [primeira release](https://deno.land/v1) do Deno foi lançada em 13/05/2020 e cada vez mais dúvidas e issues irão surgir, porém as documentações ainda não são tão completas e por isso comunidades então se unindo para centralizar ideias e compartilhar conhecimento sobre o ecossistema.
 
 As issues são excelentes para centralizar discussões pois é de rápida procura e também podemos criar classificações e templates que ajudam os contribuidores a inicializar discussões.
 

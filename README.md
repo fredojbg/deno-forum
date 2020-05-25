@@ -16,9 +16,9 @@
 </p>
 
 <h3 align="center">
-  <a href="www.denobrazil.com.br">Site Oficial</a> (Em desenvolvimento)
+  <a href="https://www.denobrazil.com.br">Site Oficial</a> (Em desenvolvimento)
   <span> · </span>
-    <a href="www.forum.denobrazil.com.br">Plataforma do Fórum</a> (Em desenvolvimento)
+    <a href="https://www.forum.denobrazil.com.br">Plataforma do Fórum</a> (Em desenvolvimento)
   <span> · </span>
   Entre na comunidade:
   <a href="https://discord.gg/dJRAbHJ">Discord</a>
@@ -44,7 +44,7 @@ As issues são excelentes para centralizar discussões pois é de rápida procur
 
 ## :satellite: Projetos da organização
 
-Um dos nossos maiores objetivos é incentizar a comunidade brasileira de Deno a impulsionar projetos open source, e para isso, estamos desenvolvemos outros projetos:
+Um dos nossos maiores objetivos é incentivar a comunidade brasileira de Deno a impulsionar projetos open source, e para isso, estamos desenvolvemos outros projetos:
 
 - [Contribua para projetos open source](https://github.com/DenoBrazil/open-source): Lista de bibliotecas e projetos open-source que estão contribuindo efetivamente para o ecossistema. Você pode ficar de olho na issues de um desses repositórios e contribuir com discussões ou até mesmo, enviar pull requests 🚀.
 
@@ -63,7 +63,7 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 - Não será permitido qualquer tipo de assédio ou discriminação relacionados a características ou escolhas pessoais, bem como bullying, sexismo, racismo ou qualquer outro tipo de ação que possa proporcionar constrangimento aos outros participantes.
 - Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
 
-Você pode ver mais detalhes sobre nosso código de conduta [aqui](./CODE_OF_CONDUCT).
+Você pode ver mais detalhes sobre nosso código de conduta [aqui](./CODE_OF_CONDUCT.md).
 
 ## :heart: Agradecimentos
 

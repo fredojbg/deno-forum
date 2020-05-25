@@ -31,7 +31,7 @@
 - [Motivação](#dart-motivação)
 - [Projetos da organização](#satellite-projetos-da-organização)
 - [Participe da comunidade ativamente](#speaker-participe-da-comunidade-ativamente)
-- [Código de conduta](#police-car-light-código-de-conduta)
+- [Código de conduta](#rotating_light-código-de-conduta)
 - [Agradecimentos](#heart-agradecimentos)
 - [Licença](#memo-licença)
 
@@ -54,7 +54,7 @@ Um dos nossos maiores objetivos é incentizar a comunidade brasileira de Deno a 
 
 - [Entre na nossa comunidade do Discord](https://discord.gg/dJRAbHJ)
 
-## :police-car-light: Código de conduta
+## :rotating_light: Código de conduta
 
 Como qualquer grupo de discussões, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
 

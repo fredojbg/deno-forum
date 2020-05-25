@@ -4,7 +4,7 @@
 <h1 align="center">Fórum</h1>
 <p align="center">🦖 Discussões em formato de issues impulsionadas pela comunidade brasileira de Deno</p>
 
-> Disclaimer: Não nos resposabilizamos por comentários de má conduta, os contribuidores possuem responsabilidade pelo seus atos e estes não possuem vinculo com a organização.
+> Disclaimer: Não nos responsabilizamos por comentários de má conduta, os contribuidores possuem responsabilidade pelo seus atos e estes não possuem vínculo com a organização.
 ---
 
 ## 👩🏻‍💻 Motivação

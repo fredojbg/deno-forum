@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".github/logo.png" width="400" alt="Front-end Brasil">
+<img src=".github/logo.png" width="400" alt="Deno Brazil">
 </p>
 <h1 align="center">Fórum</h1>
 <p align="center">🦖 Discussões em formato de issues impulsionadas pela comunidade brasileira de Deno</p>
@@ -24,4 +24,4 @@ Um dos nossos maiores objetivos é incentizar a comunidade brasileira de Deno a 
 
 ## 🎙 Participe da comunidade ativamente
 
-- [Entre na nossa comunidade do Discord](https://discord.gg/FAJ8Bc)
+- [Entre na nossa comunidade do Discord](https://discord.gg/dJRAbHJ)

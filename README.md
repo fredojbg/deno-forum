@@ -31,6 +31,7 @@
 - [Motivação](#dart-motivação)
 - [Projetos da organização](#satellite-projetos-da-organização)
 - [Participe da comunidade ativamente](#speaker-participe-da-comunidade-ativamente)
+- [Código de conduta](#police-car-light-código-de-conduta)
 - [Agradecimentos](#heart-agradecimentos)
 - [Licença](#memo-licença)
 
@@ -52,6 +53,17 @@ Um dos nossos maiores objetivos é incentizar a comunidade brasileira de Deno a 
 ## :speaker: Participe da comunidade ativamente
 
 - [Entre na nossa comunidade do Discord](https://discord.gg/dJRAbHJ)
+
+## :police-car-light: Código de conduta
+
+Como qualquer grupo de discussões, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
+
+- Respeite para ser respeitado. Não escreva algo que possa ofender alguém. Reflita se o texto não é agressivo/mal educado antes de enviar.
+- Mantenha as críticas nas idéias e não nas pessoas.
+- Não será permitido qualquer tipo de assédio ou discriminação relacionados a características ou escolhas pessoais, bem como bullying, sexismo, racismo ou qualquer outro tipo de ação que possa proporcionar constrangimento aos outros participantes.
+- Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
+
+Você pode ver mais detalhes sobre nosso código de conduta [aqui](./CODE_OF_CONDUCT).
 
 ## :heart: Agradecimentos
 

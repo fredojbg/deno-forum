@@ -1,5 +1,7 @@
 <p align="center">
-<img src=".github/logo.png" width="400" alt="Deno Brazil">
+  <a href="https://github.com/DenoBrazil">
+    <img src=".github/logo.png" width="400" alt="Deno Brazil">
+  </a>
 </p>
 <h1 align="center">Fórum</h1>
 <p align="center">🦖 Discussões em formato de issues impulsionadas pela comunidade brasileira de Deno</p>
@@ -15,6 +17,8 @@
 
 <h3 align="center">
   <a href="www.denobrazil.com.br">Site Oficial</a> (Em desenvolvimento)
+  <span> · </span>
+    <a href="www.forum.denobrazil.com.br">Plataforma do Fórum</a> (Em desenvolvimento)
   <span> · </span>
   Entre na comunidade:
   <a href="https://discord.gg/dJRAbHJ">Discord</a>

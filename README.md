@@ -27,7 +27,7 @@
 > Disclaimer: Não nos responsabilizamos por comentários de má conduta, os contribuidores possuem responsabilidade pelo seus atos e estes não possuem vínculo com a organização.
 ---
 
-## 🚀 Navegue:
+## 🚀 Navegue
 - [Motivação](#dart-motivação)
 - [Projetos da organização](#satellite-projetos-da-organização)
 - [Participe da comunidade ativamente](#speaker-participe-da-comunidade-ativamente)

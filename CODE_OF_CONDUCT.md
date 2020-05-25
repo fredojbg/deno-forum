@@ -64,4 +64,4 @@ This Code of Conduct is distributed under a Creative Commons Attribution-ShareAl
 
 Portions of text derived from the Django Code of Conduct and the Geek Feminism Anti-Harassment Policy.
 
-Retrieved on November 22, 2016 from http://citizencodeofconduct.org/
+Retrieved on May 25, 2020 from http://citizencodeofconduct.org/

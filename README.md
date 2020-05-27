@@ -22,6 +22,7 @@
   <span> · </span>
   Entre na comunidade:
   <a href="https://discord.gg/dJRAbHJ">Discord</a>
+ <span> · </span>
   <a href="http://denobrazil.slack.com/">Slack</a>
 </h3>
 
